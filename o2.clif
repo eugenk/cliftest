@@ -1,0 +1,4 @@
+(cl-text o2
+	(O 2 2)
+  (cl-imports https://github.com/eugenk/cliftest/raw/master/o1.clif)
+)
